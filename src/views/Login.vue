@@ -1,5 +1,9 @@
 <template>
   <div class="wrapper">
+    <label class="darkMode">
+      <input type="checkbox" class="nes-checkbox" checked />
+      <span>Enable</span>
+    </label>
     <Form />
   </div>
 </template>
